@@ -31,7 +31,7 @@ MLP Configuration: <br/>
 <br />
 
 
-  
+<p align="center">  
 Model Accuracy: <br/>
 <img src="https://i.imgur.com/lbBRGSN.png" height="60%" width="60%" alt="Esemble models"/>
 <br />
